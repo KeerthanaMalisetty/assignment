@@ -19,7 +19,7 @@ export function Component1() {
                     <i class="fa-sharp fa-solid fa-paper-plane"></i></p>
             </div>
             <div className='title'>
-                <p className='toil'>TOIL</p>
+                <p className='toil'>TOIT</p>
                 <p className='beer'>BEER</p>
 
             </div>
