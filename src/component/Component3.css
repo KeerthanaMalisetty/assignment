@@ -1,0 +1,94 @@
+.cntt1 {
+    width: 100%;
+    position: absolute;
+    top: 3600px;
+    background-color: rgb(163, 117, 117);
+    height: 800px;
+    display: flex;
+}
+
+.ch1 {
+    width: 55%;
+    background-color: #CA9E67;
+
+}
+
+.ch2 {
+    background: url("/public/images/Rectangle 134.png"), #8B4513;
+    background-blend-mode: luminosity;
+    width: 45%;
+}
+
+.heading4 {
+    position: absolute;
+    width: 1000px;
+    height: 220px;
+    left: 49px;
+    top: 90px;
+
+    font-family: 'PP Fraktion Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 98.19%;
+    /* or 98px */
+
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.ch3 {
+    position: absolute;
+    top: 250px;
+    width: 580px;
+    height: 600px;
+    background: url("/public/images/f33a2360b6d5ab77eea301bbfb96957d\ 1.png");
+    background-size: cover;
+
+}
+
+.ch4 {
+    position: absolute;
+    width: 180px;
+    height: 291px;
+    left: 968px;
+    top: 412px;
+
+    background: url("/public/images/toit-logo\ 2.png")
+}
+
+.para {
+    position: absolute;
+    width: 500px;
+    height: 400px;
+    top: 340px;
+    font-family: 'PP Fraktion Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 139.69%;
+    /* or 34px */
+    text-align: left;
+    left: 145px;
+    color: #F0F0F0;
+}
+
+.btn1 {
+    position: absolute;
+    width: 275px;
+    height: 66px;
+    left: 141px;
+    top: 596px;
+    color: white;
+    background: #141011;
+    border-radius: 33px;
+    font-family: 'PP Fraktion Sans', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height */
+
+    text-transform: uppercase;
+}

@@ -1,0 +1,102 @@
+.headctr {
+    width: 100%;
+    height: 400px;
+    background-color: black;
+    position: absolute;
+    top: 4400px;
+    display: flex;
+}
+
+.chctr1 {
+    background: url("/public/images/Rectangle\ 21.png");
+    width: 27%;
+    height: 100%;
+    border-right: 1px solid white;
+}
+
+.chctr2 {
+    background: url("/public/images/Rectangle\ 22.png");
+    width: 27%;
+    height: 100%;
+}
+
+.chctr3 {
+    background: url("/public/images/Rectangle\ 23.png");
+    width: 27%;
+    height: 100%;
+}
+
+.chctr4 {
+    background: url("/public/images/Rectangle\ 24.png");
+    width: 27%;
+    height: 100%;
+}
+
+.lastctr {
+    background: url("/public/images/Rectangle\ 139.png"), #121011;
+    background-blend-mode: soft-light;
+    width: 100%;
+    height: 1000px;
+    position: absolute;
+    top: 4800px;
+}
+
+.lastch1 {
+    position: absolute;
+    top: 758px;
+    width: 586.5px;
+    height: 240.5px;
+    left: 0;
+    background: url("/public/images/Vector 43.png");
+    background-size: cover;
+
+}
+
+.lastch2 {
+    background: url("/public/images/Group 61.png");
+    background-size: cover;
+    position: absolute;
+    width: 489.54px;
+    height: 495px;
+    top: 505px;
+    left: 430px;
+    z-index: 1;
+}
+
+.lastch3 {
+    position: absolute;
+    top: 758px;
+    width: 578.5px;
+    height: 240.5px;
+    left: 770px;
+    background: url("/public/images/Vector 44.png");
+    background-size: cover;
+
+}
+
+.lastlist {
+    position: absolute;
+    width: 146px;
+    height: 277px;
+    left: -676px;
+    top: 4937px;
+    display: flex;
+    flex-direction: column;
+    background-color: aliceblue;
+    list-style: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    /* line-height: 243.69%; */
+    /* or 58px */
+
+    text-transform: uppercase;
+    z-index: 1;
+
+
+}
+
+.lastlistitem {
+    color: #DC9696;
+}
